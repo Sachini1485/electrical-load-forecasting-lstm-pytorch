@@ -71,6 +71,6 @@ The trained LSTM model successfully forecasts short-term electrical load by lear
 ## Author
 
 Sachini M Thilakarathna
-Electrical &Electeonic Engineerin
+Electrical &Electeonic Engineering Undergraduate
 
 Your Name
